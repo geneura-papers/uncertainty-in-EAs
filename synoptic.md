@@ -1,8 +1,8 @@
 # Synoptic table for papers and algorithms
 
-| Paper           | Algorithm type (EA, Swarm, other) | Nature of "noise"     | Technique used to tackle noise   | Application area | URL | Cited in Rakshit's |
-| =============== | ================================= | ===================== | ================================ | ================ | === | ================== |
-| Rakshit201718   | Survey                            |                       |                                  |                  | https://www.sciencedirect.com/science/article/pii/S221065021630308X | | 
+| Paper           | Algorithm type (EA, Swarm, other) | Nature of "noise"     | Technique used to tackle noise   | Application area | URL | Cited in Rakshit's | Publication Date |
+| =============== | ================================= | ===================== | ================================ | ================ | === | ================== | ================ |
+| Rakshit201718   | Survey                            |                       |                                  |                  | https://www.sciencedirect.com/science/article/pii/S221065021630308X | |
 | AKIMOTO201542   | any optimization method (theoretical) | Gaussian and any noise with finite variance | repeating the fitness evaluation | theoretical      | https://www.sciencedirect.com/science/article/pii/S0304397515003151 |
 | JUNHUA20136780  | elisits genetic algorithms        | additive random noise | a Markov chain modeling EGA-NE   | theoretical      | https://www.sciencedirect.com/science/article/pii/S0030402613007730#bib0065 |
 | Arnold1665028   | recombinative evolution strategies| very general noise model |                               | sphere model     | http://ieeexplore.ieee.org/document/1665028/ |
