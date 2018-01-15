@@ -1,9 +1,9 @@
 # Synoptic table for papers and algorithms
 
-| Paper           | Algorithm type (EA, Swarm, other) | Nature of "noise"     | Technique used to tackle noise   | Application area | URL | Cited in Rakshit's | Publication Date |
-| =============== | ================================= | ===================== | ================================ | ================ | === | ================== | ================ |
-| Rakshit201718   | Survey                            |                       |                                  |                  | https://www.sciencedirect.com/science/article/pii/S221065021630308X | | April, 2917 |
-| AKIMOTO201542   | any optimization method (theoretical) | Gaussian and any noise with finite variance | repeating the fitness evaluation | theoretical      | https://www.sciencedirect.com/science/article/pii/S0304397515003151 | yes | November, 2015 |
+| Paper           | Algorithm type (EA, Swarm, other) | Nature of "noise"     | Technique used to tackle noise   | Application area | URL                                                                 | Cited in Rakshit's | Publication Date |
+| =============== | ================================= | ===================== | ================================ | ================ | =================================================================== | ================== | ================ |
+| Rakshit201718   | Survey                            |          All          |              All                 |                  | https://www.sciencedirect.com/science/article/pii/S221065021630308X | x                  | April, 2017      |
+| AKIMOTO201542   | any optimization method (theoretical) | Gaussian and any noise with finite variance  | repeating the fitness evaluation | theoretical      | https://www.sciencedirect.com/science/article/pii/S0304397515003151 | yes | November, 2015 |
 | JUNHUA20136780  | elisits genetic algorithms        | additive random noise | a Markov chain modeling EGA-NE   | theoretical      | https://www.sciencedirect.com/science/article/pii/S0030402613007730#bib0065 | No | November, 2013 |
 | Arnold1665028   | recombinative evolution strategies| very general noise model |                               | sphere model     | http://ieeexplore.ieee.org/document/1665028/ | Yes | August, 2006 |
 | Qian2014        | (1+1)-EA                          | additive Gaussian noise | sampling                       | OneMax and Trap  | https://link.springer.com/chapter/10.1007/978-3-319-10762-2_30 | No | 2014 |
