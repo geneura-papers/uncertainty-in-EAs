@@ -18,5 +18,4 @@
 | Jin1438403      | Survey                            |                       |                                  |                  | http://ieeexplore.ieee.org/abstract/document/1438403/ | Yes | June, 2005 |
 | Hansen4634579   | evolutionary optimization         | not specified         | rank based selection operator (It requires only a few additional function evaluations per generation, and does not rely on an underlying uncertainty distribution) | optimization of feedback controllers of thermoacoustic instabilities of gas turbine combustors | http://ieeexplore.ieee.org/abstract/document/4634579/ | Yes | February, 2009 |
 
-| XXXXXX          |                                   |                       |                                  |                  |   |
-| XXXXXX          |                                   |                       |                                  |                  |   |
+
