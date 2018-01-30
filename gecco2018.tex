@@ -27,7 +27,7 @@ Conference 2018}{July 15--19, 2018}{Kyoto, Japan}
 \acmPrice{15.00}
 
 \begin{document}
-\title{A modern, event-based architecture for distributed evolutionary algorithms}
+\title{Uncertainty in evolutionary algorithms and how to deal with it}
 
 \author{Anonymous Author 1}
 \orcid{1234-5678-9012}
@@ -50,30 +50,42 @@ Conference 2018}{July 15--19, 2018}{Kyoto, Japan}
 }
 \email{2aa@ai2.com}
 
+\author{Anonymous Author 4}
+\orcid{1234-5678-9012}
+\affiliation{%
+  \institution{Anonymous institute 1}
+  \streetaddress{P.O. Box 1212}
+  \city{Dublin} 
+  \state{Ohio} 
+  \postcode{43017-6221}
+}
+\email{aa4@ai1.com}
+
+\author{Anonymous Author 3}
+\affiliation{%
+  \institution{Anonymous institute 2}
+  \streetaddress{P.O. Box 1212}
+  \city{Dublin} 
+  \state{Ohio} 
+  \postcode{43017-6221}
+}
+\email{3aa@ai2.com}
+
+\author{Anonymous Author 5}
+\orcid{1234-5678-9012}
+\affiliation{%
+  \institution{Anonymous institute 5}
+  \streetaddress{P.O. Box 1212}
+  \city{Dublin} 
+  \state{Ohio} 
+  \postcode{43017-6221}
+}
+\email{a5@ai5.com}
 % The default list of authors is too long for headers.
 \renewcommand{\shortauthors}{A. Author et al.}
 
 
 \begin{abstract}
-  Cloud native applications add a layer of abstraction to the
-underlying distributed computing system, creating an abstract,
-self-scaling and self-managed architecture of different Microservices
-linked by a messaging bus. Creating new algorithms that tap this
-architectural patterns and at the same time they employ distributed
-resources efficiently is a challenge we will be taking up in this
-paper, that is why in this paper we propose KafkEO, a cloud native
-framework that allows different implementations of evolutionary
-algorithms and other population-based metaheuristics by using
-micro-populations and stateless services as the main building
-blocks. we introduce an open source implementation that uses OpenWhisk
-as a serverless framework and Kafka as messaging hub. In this proof of
-concept, we map the traditional evolutionary algorithm to this new
-cloud-native format.  As far as we know, this is the first
-architecture of this kind; the experiments show that resources are
-used efficiently and that the cost to the cloud user is more
-competitive, resulting in savings when compared against other cloud
-implementations. We also perform an initial analysis of implementation
-parameters that show their influence in performance.
 \end{abstract}
 
 \begin{CCSXML}
@@ -93,23 +105,6 @@ parameters that show their influence in performance.
 
 
 \maketitle
-
-
-\begin{abstract}
-
-
-
-\end{abstract}
-
-
-\begin{keyword}
-Optimization \sep uncertainty  \sep ANOTHER \sep ANOTHER
-\end{keyword}
-
-\end{frontmatter}
-
-
-
 
 
 \section{Introduction}
