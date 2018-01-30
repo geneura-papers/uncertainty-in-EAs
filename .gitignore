@@ -221,3 +221,6 @@ TSWLatexianTemp*
 
 # Emacs backup
 *~
+
+*.cut
+gecco2018.pdf
